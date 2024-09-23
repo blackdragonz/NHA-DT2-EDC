@@ -77,7 +77,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหาข้อมูลผู้ที่รอสมัครสมาชิก โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 6. ผู้ใช้งานสามารถส่งออกข้อมูลผู้ที่รอสมัครสมาชิก โดยคลิกปุ่ม “ส่งออกข้อมูล”
 
-<figure><img src="../.gitbook/assets/4.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 5</strong> หน้าจอแสดงข้อมูลสมาชิก - การบริหารจัดการข้อมูลผู้ที่รอสมัครสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption><p><strong>รูปภาพที่ 5</strong> หน้าจอแสดงข้อมูลสมาชิก - การบริหารจัดการข้อมูลผู้ที่รอสมัครสมาชิก</p></figcaption></figure>
 
 ### 2.3 พอยท์
 
@@ -175,17 +175,17 @@ description: >-
 9. จากนั้นไปที่ระบบมอบหมายงานเพื่อทำการเปิดงานและขออนุมัติ
 10. เมื่อได้รับการอนุมัติเรียบร้อยแล้วผู้ใช้สามารถตรวจสอบการนำเข้าพอยท์ได้ที่ “ตารางนำเข้าพอยท์”
 
-<figure><img src="../.gitbook/assets/2.3.4-17.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – สร้าง/นำเข้าพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.3.4-17.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – สร้าง/นำเข้าพอยท์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/17.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 18</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ดาวน์โหลดตัวอย่างไฟล์การนำเข้าพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption><p><strong>รูปภาพที่ 18</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ดาวน์โหลดตัวอย่างไฟล์การนำเข้าพอยท์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/18.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 19</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – อัปโหลดเพื่อนำเข้าพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p><strong>รูปภาพที่ 19</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – อัปโหลดเพื่อนำเข้าพอยท์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/19.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 20</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ตัวเลือกการนำเข้าข้อมูล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/19.png" alt=""><figcaption><p><strong>รูปภาพที่ 20</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ตัวเลือกการนำเข้าข้อมูล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/20.png" alt="" width="563"><figcaption><p><em><strong>รูปภาพที่ 21</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ –</em> สรุปข้อมูลการนำเข้า</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption><p><em><strong>รูปภาพที่ 21</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ –</em> สรุปข้อมูลการนำเข้า</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/22.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ระบบมอบหมายงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/22.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอแสดงวิธีการนำเข้าพอยท์ – ระบบมอบหมายงาน</p></figcaption></figure>
 
 **รูปภาพที่ 23** หน้าจอแสดงวิธีการนำเข้าพอยท์ – ระบบมอบหมายงาน
 
@@ -197,9 +197,9 @@ description: >-
 4. ผู้ใช้งานสามารถค้นหาการนำเข้าพอยท์ โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 5. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง สถานะ ช่วงเวลาการเปลี่ยนแปลงล่าสุดได้
 
-<figure><img src="../.gitbook/assets/24.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอแสดงการบริหารจัดการพอยท์ – วิธีการดูรายการนำเข้าพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/24.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอแสดงการบริหารจัดการพอยท์ – วิธีการดูรายการนำเข้าพอยท์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/25.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอแสดงการบริหารจัดการพอยท์ – รายละเอียดรายการนำเข้าพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/25.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอแสดงการบริหารจัดการพอยท์ – รายละเอียดรายการนำเข้าพอยท์</p></figcaption></figure>
 
 ### **2.4 ของรางวัล/คูปอง**
 
@@ -217,11 +217,11 @@ description: >-
 4. ผู้ใช้งานกรอกข้อมูลของรางวัล/คูปอง จากนั้นคลิกปุ่ม “สร้าง”
 5. ถ้าต้องการยกเลิกการเพิ่มของรางวัล/คูปอง คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/2.4.1-26.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-26.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/27.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/27.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/28.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการยกเลิกการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/28.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการยกเลิกการเพิ่มของรางวัล/คูปอง</p></figcaption></figure>
 
 **วิธีการลบข้อมูลของรางวัล/คูปอง**
 
@@ -231,9 +231,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของรางวัล/คูปอง
 5. คลิกปุ่ม “ลบ”
 
-<figure><img src="../.gitbook/assets/2.4.1-29.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการลบของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-29.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการลบของรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.4.1-30.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการลบของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-30.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการลบของรางวัล/คูปอง</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูลของรางวัล/คูปอง**
 
@@ -243,9 +243,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของรางวัล/คูปอง ผู้ใช้งานทำการแก้ไขข้อมูลของรางวัล/คูปอง
 5. คลิกปุ่ม “แก้ไข”
 
-<figure><img src="../.gitbook/assets/2.4.1-31.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการแก้ไขข้อมูลของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-31.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการแก้ไขข้อมูลของรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.4.1-32.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการแก้ไขข้อมูลของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-32.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการแก้ไขข้อมูลของรางวัล/คูปอง</p></figcaption></figure>
 
 **วิธีการดูรายการของรางวัล/คูปอง**
 
@@ -255,7 +255,7 @@ description: >-
 4. ผู้ใช้งานสามารถค้นหาข้อมูลของรางวัล/คูปอง โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 5. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง ประเภทของรางวัล สถานะการใช้งาน และช่วงเวลาได้
 
-<figure><img src="../.gitbook/assets/2.4.1-33.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการดูรายการรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.1-33.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการดูรายการรางวัล/คูปอง</p></figcaption></figure>
 
 **วิธีการดูประวัติการแลกรางวัล/คูปอง**
 
@@ -268,9 +268,9 @@ description: >-
 7. ผู้ใช้งานสามารถส่งออกข้อมูลของรางวัล/คูปอง โดยคลิกปุ่ม “ส่งออกข้อมูล”
 8. ผู้ใช้งานสามารถเลือกรูปแบบไฟล์ส่งออกข้อมูล
 
-<figure><img src="../.gitbook/assets/34.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการดูประวัติการแลกรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/34.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – วิธีการดูประวัติการแลกรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/35.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – รูปแบบการส่งออกข้อมูล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/35.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอแสดงการบริหารจัดการของรางวัล/คูปอง – รูปแบบการส่งออกข้อมูล</p></figcaption></figure>
 
 #### **2.4.2 นำเข้าของรางวัล/คูปอง**
 
@@ -288,9 +288,9 @@ description: >-
 8. จากนั้นไปที่ระบบมอบหมายงานเพื่อทำการเปิดงานและขออนุมัติ
 9. เมื่อได้รับการอนุมัติเรียบร้อยแล้วผู้ใช้สามารถตรวจสอบการนำเข้าคูปองได้ที่ “ตารางนำเข้าคูปอง”
 
-<figure><img src="../.gitbook/assets/36.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – นำเข้าของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/36.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – นำเข้าของรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/37.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – นำเข้าของรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/37.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – นำเข้าของรางวัล/คูปอง</p></figcaption></figure>
 
 **วิธีการดูรายการนำเข้ารางวัล/คูปอง**
 
@@ -300,7 +300,7 @@ description: >-
 4. ผู้ใช้งานสามารถค้นหาข้อมูลรางวัล/คูปอง โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 5. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง สถานะ ช่วงเวลาการเปลี่ยนแปลงล่าสุดได้
 
-<figure><img src="../.gitbook/assets/38.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – ดูรายการนำเข้ารางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/38.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอแสดงการนำเข้าของรางวัล/คูปอง – ดูรายการนำเข้ารางวัล/คูปอง</p></figcaption></figure>
 
 #### **2.4.3 ประวัติการส่งรางวัล/คูปอง**
 
@@ -316,9 +316,9 @@ description: >-
 6. ผู้ใช้งานสามารถส่งออกข้อมูลประวัติการส่งรางวัล/คูปอง โดยคลิกปุ่ม “ส่งออกข้อมูล”
 7. ผู้ใช้งานสามารถเลือกรูปแบบการส่งออกข้อมูล
 
-<figure><img src="../.gitbook/assets/2.4.3-39.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอแสดงประวัติการส่งรางวัล/คูปอง - วิธีการดูประวัติการส่งรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.4.3-39.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอแสดงประวัติการส่งรางวัล/คูปอง - วิธีการดูประวัติการส่งรางวัล/คูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/40.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอแสดงประวัติการส่งรางวัล/คูปอง - เลือกรูปแบบการส่งออกข้อมูล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/40.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอแสดงประวัติการส่งรางวัล/คูปอง - เลือกรูปแบบการส่งออกข้อมูล</p></figcaption></figure>
 
 ### 2.5 ข่าวประชาสัมพันธ์/แคมเปญ
 
@@ -337,15 +337,15 @@ description: >-
 5. ผู้ใช้งานกรอกข้อมูลแคมเปญหรือกิจกรรม จากนั้นคลิกปุ่ม “ใช้งาน”
 6. ถ้าต้องการยกเลิกการเพิ่มแคมเปญ/กิจกรรม คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/41.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/41.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.1-42.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.1-42.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.1-43.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 43</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.1-43.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 43</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มแคมเปญ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/44.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 44</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มกิจกรรม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/44.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 44</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการเพิ่มกิจกรรม</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.1-45.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการยกเลิกกิจกรรม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.1-45.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการยกเลิกกิจกรรม</p></figcaption></figure>
 
 **วิธีการดูรายการแคมเปญ**
 
@@ -354,7 +354,7 @@ description: >-
 3. ผู้ใช้งานสามารถดูรายการแคมเปญได้
 4. ผู้ใช้งานสามารถค้นหาแคมเปญ โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/46.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 46</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการดูรายการแคมเปญ / กิจกรรม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/46.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 46</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ – วิธีการดูรายการแคมเปญ / กิจกรรม</p></figcaption></figure>
 
 **วิธีการเปิด/ปิดการใช้งานแคมเปญและกิจกรรม**
 
@@ -362,7 +362,7 @@ description: >-
 2. คลิก “แคมเปญ/กิจกรรม”
 3. ผู้ใช้งานสามารถเปิด/ปิดการใช้งานแคมเปญได้ที่ปุ่ม “Active/Inactive”
 
-<figure><img src="../.gitbook/assets/47.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 47</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - เปิด/ปิดการใช้งานแคมเปญและกิจกรรม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/47.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 47</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - เปิด/ปิดการใช้งานแคมเปญและกิจกรรม</p></figcaption></figure>
 
 #### **2.5.2 นำเข้าแคมเปญ**
 
@@ -380,9 +380,9 @@ description: >-
 8. จากนั้นไปที่ระบบมอบหมายงานเพื่อทำการเปิดงานและขออนุมัติ
 9. เมื่อได้รับการอนุมัติเรียบร้อยแล้วผู้ใช้สามารถตรวจสอบการนำเข้าแคมเปญได้ที่ “ตารางนำเข้าแคมเปญ”
 
-<figure><img src="../.gitbook/assets/2.5.2-48.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 48</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - นำเข้าแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-48.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 48</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - นำเข้าแคมเปญ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.2-49.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 49</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - นำเข้าแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-49.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 49</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - นำเข้าแคมเปญ</p></figcaption></figure>
 
 **วิธีการดูรายการนำเข้าแคมเปญ**
 
@@ -392,7 +392,7 @@ description: >-
 4. ผู้ใช้งานสามารถค้นหารายการนำเข้าแคมเปญ โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 5. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง สถานะ ช่วงเวลาการเปลี่ยนแปลงล่าสุดได้
 
-<figure><img src="../.gitbook/assets/2.5.2-50.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 50</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - รายการนำเข้าแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-50.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 50</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - รายการนำเข้าแคมเปญ</p></figcaption></figure>
 
 #### **2.5.3 ข่าวประชาสัมพันธ์**
 
@@ -407,11 +407,11 @@ description: >-
 4. ผู้ใช้งานกรอกข้อมูลของรางวัล/คูปอง จากนั้นคลิกปุ่ม “สร้าง”
 5. ถ้าต้องการยกเลิกการเพิ่มของรางวัล/คูปอง คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/2.5.2-51.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 51</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - สร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-51.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 51</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - สร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.2-52.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 52</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การสร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-52.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 52</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การสร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.2-53.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - ยกเลิกการสร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.2-53.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - ยกเลิกการสร้างข่าวประชาสัมพันธ์</p></figcaption></figure>
 
 **วิธีการลบข่าวประชาสัมพันธ์**
 
@@ -421,9 +421,9 @@ description: >-
 4. ระบบจะแสดงป๊อปอัพรายละเอียดของข่าวประชาสัมพันธ์
 5. คลิกปุ่ม “ลบ”
 
-<figure><img src="../.gitbook/assets/54.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 54</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การลบข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/54.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 54</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การลบข่าวประชาสัมพันธ์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.3-55.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การลบข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.3-55.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 55</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การลบข่าวประชาสัมพันธ์</p></figcaption></figure>
 
 **วิธีการแก้ไขข่าวประชาสัมพันธ์**
 
@@ -433,9 +433,9 @@ description: >-
 4. ระบบจะแสดงป๊อปอัพรายละเอียดข่าวประชาสัมพันธ์
 5. คลิกปุ่ม “แก้ไข” เพื่อทำการแก้ไขข้อมูลข่าวประชาสัมพันธ์
 
-<figure><img src="../.gitbook/assets/56.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การแก้ไขข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/56.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 56</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การแก้ไขข่าวประชาสัมพันธ์</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.5.3-57.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การแก้ไขข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.5.3-57.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - การแก้ไขข่าวประชาสัมพันธ์</p></figcaption></figure>
 
 **วิธีการดูรายการข่าวประชาสัมพันธ์**
 
@@ -445,7 +445,7 @@ description: >-
 4. ผู้ใช้งานสามารถค้นหาข่าวประชาสัมพันธ์ โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 5. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง ป้ายกำกับข่าว ได้
 
-<figure><img src="../.gitbook/assets/58.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - รายการข่าวประชาสัมพันธ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/58.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอข่าวประชาสัมพันธ์/แคมเปญ - รายการข่าวประชาสัมพันธ์</p></figcaption></figure>
 
 ### 2.6 รายงาน/Dashboard
 
@@ -462,7 +462,7 @@ description: >-
 4. คลิกปุ่ม “ดาวน์โหลด”
 5. ผู้ใช้งานสามารถล้างข้อมูลได้โดยการ คลิกปุ่ม “ล้างข้อมูล”
 
-<figure><img src="../.gitbook/assets/59.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอรายงาน/Dashboard - รายงานการจัดการพอยท์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/59.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอรายงาน/Dashboard - รายงานการจัดการพอยท์</p></figcaption></figure>
 
 #### **2.6.2 รายงานการจัดการของรางวัล/คูปอง**
 
@@ -474,7 +474,7 @@ description: >-
 4. คลิกปุ่ม “ดาวน์โหลด”
 5. ผู้ใช้งานสามารถล้างข้อมูลได้โดยการ คลิกปุ่ม “ล้างข้อมูล”
 
-<figure><img src="../.gitbook/assets/2.6.2-60 (1).PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 60</strong> หน้าจอรายงาน/Dashboard – รายงานการจัดการรางวัล/คูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.6.2-60 (1).PNG" alt=""><figcaption><p><strong>รูปภาพที่ 60</strong> หน้าจอรายงาน/Dashboard – รายงานการจัดการรางวัล/คูปอง</p></figcaption></figure>
 
 #### **2.6.3 รายงานการจัดการแคมเปญ**
 
@@ -486,7 +486,7 @@ description: >-
 4. คลิกปุ่ม “ดาวน์โหลด”
 5. ผู้ใช้งานสามารถล้างข้อมูลได้โดยการ คลิกปุ่ม “ล้างข้อมูล”
 
-<figure><img src="../.gitbook/assets/2.6.2-61.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 61</strong> หน้าจอรายงาน/Dashboard – รายงานการจัดการแคมเปญ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.6.2-61.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 61</strong> หน้าจอรายงาน/Dashboard – รายงานการจัดการแคมเปญ</p></figcaption></figure>
 
 #### **2.6.4 Dashboard**
 
@@ -496,7 +496,7 @@ description: >-
 2. คลิก “Dashboard”
 3. ระบบจะแสดงหน้า Overview
 
-<figure><img src="../.gitbook/assets/62.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 62</strong> หน้าจอรายงาน/Dashboard – Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/62.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 62</strong> หน้าจอรายงาน/Dashboard – Dashboard</p></figcaption></figure>
 
 ## **บทที่ 3 การใช้งานในส่วนของเมนู Setting**
 
@@ -516,9 +516,9 @@ description: >-
 4. ผู้ใช้งานกรอกข้อมูลบัตรสมาชิก จากนั้นคลิกปุ่ม “บันทึก”
 5. ถ้าต้องการยกเลิกการเพิ่มบัตรสมาชิก คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/63.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 63</strong> หน้าจอ Data Maintenance – การเพิ่มบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/63.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 63</strong> หน้าจอ Data Maintenance – การเพิ่มบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/64.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 64</strong> หน้าจอ Data Maintenance – การเพิ่มบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/64.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 64</strong> หน้าจอ Data Maintenance – การเพิ่มบัตรสมาชิก</p></figcaption></figure>
 
 **วิธีการลบบัตรสมาชิก**
 
@@ -528,9 +528,9 @@ description: >-
 4. ระบบจะแสดงป๊อปอัพข้อมูลของบัตรสมาชิก
 5. คลิกปุ่ม “ลบ”
 
-<figure><img src="../.gitbook/assets/65.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 65</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/65.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 65</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/66.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 66</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/66.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 66</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูลบัตรสมาชิก**
 
@@ -540,9 +540,9 @@ description: >-
 4. ระบบจะแสดงป๊อปอัพข้อมูลของบัตรสมาชิก ผู้ใช้งานทำการแก้ไขข้อมูลบัตรสมาชิก
 5. คลิกปุ่ม “แก้ไข”
 
-<figure><img src="../.gitbook/assets/67.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 67</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/67.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 67</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/68.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 68</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/68.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 68</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
 **วิธีการดูรายการบัตรสมาชิก**
 
@@ -551,7 +551,7 @@ description: >-
 3. ระบบจะแสดงหน้ารายการบัตรสมาชิก
 4. ผู้ใช้งานสามารถค้นหาบัตรสมาชิก โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/69.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/69.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
 
 #### **3.1.2 Data Support**
 
@@ -564,11 +564,11 @@ description: >-
 5. ผู้ใช้งานสามารถทำการแก้ไขข้อมูลได้ โดยคลิกที่ “ไอคอนดินสอ”
 6. รายการตั้งค่ากำหนดเงื่อนไขบางรายการ ผู้ใช้งานสามารถทำการลบข้อมูลได้ โดยคลิกที่ “ไอคอนลบ”
 
-<figure><img src="../.gitbook/assets/70.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอ Data Maintenance – การตั้งค่ากำหนดเงื่อนไข</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/70.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอ Data Maintenance – การตั้งค่ากำหนดเงื่อนไข</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/71.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอ Data Maintenance – แก้ไขข้อมูล Support</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/71.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอ Data Maintenance – แก้ไขข้อมูล Support</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/72.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 72</strong> หน้าจอ Data Maintenance – ลบข้อมูล Support</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/72.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 72</strong> หน้าจอ Data Maintenance – ลบข้อมูล Support</p></figcaption></figure>
 
 **วิธีการดูรายการ Master Data**
 
@@ -584,9 +584,9 @@ description: >-
 10. ผู้ใช้งานสามารถค้นหารายการตั้งค่ากำหนดเงื่อนไข โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 11. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง การเปลี่ยนแปลงล่าสุด และประเภทได้
 
-<figure><img src="../.gitbook/assets/73.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 73</strong> หน้าจอ Data Maintenance – ข้อมูล Support Master Data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/73.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 73</strong> หน้าจอ Data Maintenance – ข้อมูล Support Master Data</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/74.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอ Data Maintenance – ข้อมูล Support Master Data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/74.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอ Data Maintenance – ข้อมูล Support Master Data</p></figcaption></figure>
 
 #### **3.1.3 ตั้งค่าสุ่มรางวัล**
 
@@ -600,9 +600,9 @@ description: >-
 6. ผู้ใช้งานสามารถทำการลบข้อมูลการสุ่มรางวัลได้ โดยคลิกที่ “ไอคอนถังขยะ”
 7. ผู้ใช้งานสามารถค้นหารายการสุ่มรางวัลโดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/75.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 75</strong> หน้าจอ Data Maintenance – ตั้งค่าการสุ่มรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/75.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 75</strong> หน้าจอ Data Maintenance – ตั้งค่าการสุ่มรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/76.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 76</strong> หน้าจอ Data Maintenance – การเพิ่มการสุ่มรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/76.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 76</strong> หน้าจอ Data Maintenance – การเพิ่มการสุ่มรางวัล</p></figcaption></figure>
 
 ## **บทที่ 4 การใช้งานในส่วนของเมนูส่วนเสริม**
 
@@ -611,4 +611,4 @@ description: >-
 1. ไปที่เมนู “ส่วนเสริม”
 2. คลิก “แบบสอบถาม”
 
-<figure><img src="../.gitbook/assets/77.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 77</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/77.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 77</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>

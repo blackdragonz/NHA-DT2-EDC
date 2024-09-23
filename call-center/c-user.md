@@ -14,7 +14,7 @@ description: >-
 3. คลิกเลือก “NHA-DT” ที่ด้านขวาบนของ Center App
 4. คลิก “Call Center”
 
-<figure><img src="../.gitbook/assets/0 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 1</strong> การเข้าใช้งานแอปพลิเคชัน Call Center</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 1</strong> การเข้าใช้งานแอปพลิเคชัน Call Center</p></figcaption></figure>
 
 ## **บทที่ 2 การใช้งานในส่วนของเมนู Activity**
 
@@ -157,7 +157,7 @@ description: >-
 7. ผู้ใช้งานสามารถค้นหา FAQs Base ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 8. ผู้ใช้งานสามารถดูรายละเอียดข้อมูล FAQs Base ได้โดยคลิกที่การ์ด FAQs Base
 
-<figure><img src="../.gitbook/assets/11 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการค้นหา FAQs Base</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการค้นหา FAQs Base</p></figcaption></figure>
 
 ### 3.6 บันทึกข้อมูลติดตามลูกค้า
 
@@ -188,9 +188,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลลูกค้าลงทะเบียน”จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตาม คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/12 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน– วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 15</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน– วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/13 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 16</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 16</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดการติดตามลูกค้าลงทะเบียน**
 
@@ -304,9 +304,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลติดตามการแจ้งแคมเปญ”จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตามการแจ้งแคมเปญ คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/30.PNG" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/30.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image25 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image25 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดรายการแจ้ง Campaign**
 
@@ -317,7 +317,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหารายการแจ้ง Campaign ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง หมายเลขโทรศัพท์ หมายเลขบัตรประชาชน โครงการได้
 
-<figure><img src="../.gitbook/assets/image26 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการดูรายละเอียดรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image26 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการดูรายละเอียดรายการแจ้ง Campaign</p></figcaption></figure>
 
 ### 3.7 รายการค้างชำระ
 
@@ -329,7 +329,7 @@ description: >-
    * เมื่อคลิกปุ่ม “**ค้นหาข้อมูล**” ระบบจะดึงข้อมูลตามที่ระบุในตัวกรองมาแสดงในส่วนของตารางรายการค้างชำระ
    * เมื่อคลิกปุ่ม “**ล้างข้อมูล**” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image27 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอแสดงรายการค้างชำระ – วิธีการดูรายการค้างชำระ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image27 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอแสดงรายการค้างชำระ – วิธีการดูรายการค้างชำระ</p></figcaption></figure>
 
 ## **บทที่ 4 การใช้งานในส่วนของเมนู Customer Service**
 
@@ -349,7 +349,7 @@ description: >-
 3. คลิก “สถานะการดำเนินการ”
 4. ระบบจะนำทางไปที่ระบบ “Customer Service”
 
-<figure><img src="../.gitbook/assets/image28 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอระบบ Customer Service</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image28 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอระบบ Customer Service</p></figcaption></figure>
 
 ## **บทที่ 5 การใช้งานในส่วนของเมนู Setting**
 
@@ -376,9 +376,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของบัตรสมาชิก
 5. คลิกปุ่ม “ลบ”
 
-<figure><img src="../.gitbook/assets/image29 (3).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image29 (3).png" alt=""><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image30 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image30 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูลบัตรสมาชิก**
 
@@ -388,9 +388,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของบัตรสมาชิก ผู้ใช้งานทำการแก้ไขข้อมูลบัตรสมาชิก
 5. คลิกปุ่ม “แก้ไข”
 
-<figure><img src="../.gitbook/assets/image29 (3).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image29 (3).png" alt=""><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image31 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image31 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
 **วิธีการดูรายการบัตรสมาชิก**
 
@@ -399,7 +399,7 @@ description: >-
 3. ระบบจะแสดงหน้ารายการบัตรสมาชิก
 4. ผู้ใช้งานสามารถค้นหาบัตรสมาชิก โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/image32 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image32 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
 
 ## **บทที่ 6 การใช้งานในส่วนของเมนูส่วนเสริม**
 
@@ -408,4 +408,4 @@ description: >-
 1. ไปที่เมนู “ส่วนเสริม”
 2. คลิก “แบบสอบถาม”
 
-<figure><img src="../.gitbook/assets/image33 (2).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image33 (2).png" alt=""><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>

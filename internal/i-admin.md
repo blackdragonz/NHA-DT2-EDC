@@ -141,7 +141,7 @@ description: >-
 8. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง เลขคำร้องแจ้งซ่อม วันที่แจ้งซ่อมตั้งแต่วันที่ ถึงวันที่ ผู้แจ้งคำร้อง ชื่อหน่วยงานผู้แจ้ง ชื่อผู้รับ หมายเลขครุภัณฑ์ กลุ่มงาน ประเภทงาน สถานะ ได้
 9. ผู้ใช้งานสามารถดาวน์โหลดข้อมูลในหน้าจอได้ โดยคลิกปุ่ม “Export”
 
-<figure><img src="../.gitbook/assets/12 (5).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอบันทึกคำร้อง – วิธีการดูรายละเอียดบันทึกรายการคำร้อง (Help Desk)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (5).png" alt=""><figcaption><p><strong>รูปภาพที่ 12</strong> หน้าจอบันทึกคำร้อง – วิธีการดูรายละเอียดบันทึกรายการคำร้อง (Help Desk)</p></figcaption></figure>
 
 ### 3.2 รายการบันทึกคำร้อง
 
@@ -219,7 +219,7 @@ description: >-
 3. คลิก “แหล่งความรู้”
 4. ผู้ใช้งานสามารถแก้ไข แหล่งความรู้ ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/18 (4).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 18</strong> หน้าจอ แหล่งความรู้ – วิธีการแก้ไขข้อมูล แหล่งความรู้</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (4).png" alt=""><figcaption><p><strong>รูปภาพที่ 18</strong> หน้าจอ แหล่งความรู้ – วิธีการแก้ไขข้อมูล แหล่งความรู้</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด แหล่งความรู้**
 
@@ -248,7 +248,7 @@ description: >-
 
 ![รูปภาพที่ 20 หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการเพิ่มข้อมูล กลุ่มงาน](<../.gitbook/assets/20 (4).png>)
 
-<figure><img src="../.gitbook/assets/image20.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการเพิ่มข้อมูล กลุ่มงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image20.png" alt=""><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการเพิ่มข้อมูล กลุ่มงาน</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล กลุ่มงาน**
 
@@ -258,7 +258,7 @@ description: >-
 4. คลิกปุ่ม “ไอคอนดินสอ”
 5. ผู้ใช้งานสามารถแก้ไข กลุ่มงาน ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image21.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการแก้ไขข้อมูล กลุ่มงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image21.png" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการแก้ไขข้อมูล กลุ่มงาน</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด กลุ่มงาน**
 
@@ -270,7 +270,7 @@ description: >-
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter”
 7. ผู้ใช้งานสามารถ Export รายงานกลุ่มงาน ได้ โดยคลิกปุ่ม “Export”
 
-<figure><img src="../.gitbook/assets/image22.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 23</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการดูรายละเอียดข้อมูล กลุ่มงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image22.png" alt=""><figcaption><p><strong>รูปภาพที่ 23</strong> หน้าจอสำหรับแสดงรายการ กลุ่มงาน – วิธีการดูรายละเอียดข้อมูล กลุ่มงาน</p></figcaption></figure>
 
 #### **4.1.3 กลุ่มผู้ปฏิบัติงาน**
 
@@ -286,9 +286,9 @@ description: >-
    * ระบบแสดงหน้าป๊อบอัพ เพิ่มข้อมูลสำเร็จ
 6. ถ้าต้องการยกเลิกการเพิ่มข้อมูล กลุ่มงาน คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image23.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการเพิ่มข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image23.png" alt=""><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการเพิ่มข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image24.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการเพิ่มข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image24.png" alt=""><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการเพิ่มข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล กลุ่มผู้ปฏิบัติงาน**
 
@@ -298,7 +298,7 @@ description: >-
 4. คลิกปุ่ม “ไอคอนดินสอ”
 5. ผู้ใช้งานสามารถแก้ไข กลุ่มผู้ปฏิบัติงาน ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image25.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการแก้ไขข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image25.png" alt=""><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการแก้ไขข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด กลุ่มผู้ปฏิบัติงาน**
 
@@ -310,7 +310,7 @@ description: >-
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter”
 7. ผู้ใช้งานสามารถ Export รายงานกลุ่มผู้ปฏิบัติงาน ได้ โดยคลิกปุ่ม “Export”
 
-<figure><img src="../.gitbook/assets/image26.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการดูรายละเอียดข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image26.png" alt=""><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอสำหรับแสดงรายการ กลุ่มผู้ปฏิบัติงาน – วิธีการดูรายละเอียดข้อมูล กลุ่มผู้ปฏิบัติงาน</p></figcaption></figure>
 
 #### **4.1.4 SLA**
 
@@ -326,9 +326,9 @@ description: >-
    * ระบบแสดงหน้าป๊อบอัพ เพิ่มข้อมูลสำเร็จ
 6. ถ้าต้องการยกเลิกการเพิ่มข้อมูล SLA คลิกปุ่ม “**ยกเลิก**”
 
-<figure><img src="../.gitbook/assets/image27.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการเพิ่มข้อมูล SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image27.png" alt=""><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการเพิ่มข้อมูล SLA</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image28.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการเพิ่มข้อมูล SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image28.png" alt=""><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการเพิ่มข้อมูล SLA</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล SLA**
 
@@ -338,7 +338,7 @@ description: >-
 4. คลิกปุ่ม “ไอคอนดินสอ”
 5. ผู้ใช้งานสามารถแก้ไข รายการ SLA ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image29.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการแก้ไขข้อมูล SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image29.png" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการแก้ไขข้อมูล SLA</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด SLA**
 
@@ -350,7 +350,7 @@ description: >-
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter”
 7. ผู้ใช้งานสามารถ Export รายงาน SLA ได้ โดยคลิกปุ่ม “Export”
 
-<figure><img src="../.gitbook/assets/image30.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการดูรายละเอียดข้อมูล SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image30.png" alt=""><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการดูรายละเอียดข้อมูล SLA</p></figcaption></figure>
 
 **วิธีการนำเข้าข้อมูล SLA**
 
@@ -360,7 +360,7 @@ description: >-
 4. ผู้ใช้งานสามารถดูไฟล์ตัวอย่างนำเข้า SLA ได้ โดยคลิกปุ่ม “ไฟล์ตัวอย่าง”
 5. ผู้ใช้งานสามารถนำเข้าข้อมูล SLA ได้ โดยคลิกปุ่ม “Import”
 
-<figure><img src="../.gitbook/assets/image31.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการนำเข้าข้อมูล SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image31.png" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอสำหรับแสดงรายการ SLA – วิธีการนำเข้าข้อมูล SLA</p></figcaption></figure>
 
 ## **บทที่ 5 การใช้งานในส่วนของเมนู รายงานแจ้งซ่อมภายใน**
 
@@ -381,7 +381,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image32.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอรายงาน – รายงาน SLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image32.png" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอรายงาน – รายงาน SLA</p></figcaption></figure>
 
 #### **5.1.2 รายงานคำร้องคงค้างที่เกินกำหนดเวลา**
 
@@ -394,7 +394,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image33.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอรายงาน – รายงานคำร้องคงค้างที่เกินกำหนดเวลา</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image33.png" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอรายงาน – รายงานคำร้องคงค้างที่เกินกำหนดเวลา</p></figcaption></figure>
 
 #### **5.1.3 รายงานการซ่อมบำรุง**
 
@@ -407,7 +407,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image34.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอรายงาน – รายงานการซ่อมบำรุง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image34.png" alt=""><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอรายงาน – รายงานการซ่อมบำรุง</p></figcaption></figure>
 
 #### **5.1.4 รายงานประวัติการซ่อมครุภัณฑ์**
 
@@ -420,7 +420,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image35.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอรายงาน – รายงานประวัติการซ่อมครุภัณฑ์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image35.png" alt=""><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอรายงาน – รายงานประวัติการซ่อมครุภัณฑ์</p></figcaption></figure>
 
 #### **5.1.5 รายงานสรุปผลการประเมินความพึงพอใจ**
 
@@ -433,7 +433,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image36.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอรายงาน – รายงานสรุปผลการประเมินความพึงพอใจ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image36.png" alt=""><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอรายงาน – รายงานสรุปผลการประเมินความพึงพอใจ</p></figcaption></figure>
 
 #### **5.1.6 รายงานสรุปจำนวนคำขอจำแนกตามผู้ปฏิบัติงาน**
 
@@ -446,7 +446,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image37.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอรายงาน – รายงานสรุปจำนวนคำขอจำแนกตามผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image37.png" alt=""><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอรายงาน – รายงานสรุปจำนวนคำขอจำแนกตามผู้ปฏิบัติงาน</p></figcaption></figure>
 
 #### **5.1.7 รายงานผลการดำเนินงานจำแนกตามผู้ปฏิบัติงาน**
 
@@ -459,7 +459,7 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image38.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอรายงาน – รายงานผลการดำเนินงานจำแนกตามผู้ปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image38.png" alt=""><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอรายงาน – รายงานผลการดำเนินงานจำแนกตามผู้ปฏิบัติงาน</p></figcaption></figure>
 
 #### **5.1.8 รายงานรายละเอียดการปฏิบัติงาน**
 
@@ -472,4 +472,4 @@ description: >-
    * เมื่อคลิกปุ่ม “พิมพ์รายงาน” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image39.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอรายงาน – รายงานรายละเอียดการปฏิบัติงาน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image39.png" alt=""><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอรายงาน – รายงานรายละเอียดการปฏิบัติงาน</p></figcaption></figure>

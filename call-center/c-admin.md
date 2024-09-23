@@ -24,7 +24,7 @@ description: >-
 
 ### 2.1 Overview
 
-ผู้ใช้งานสามารถดูข้อมูลภาพรวม สรุปรายงานประจำวัน สายทั้งหมด เจ้าหน้าที่ทั้งหมด รอรับบริการ กำลังรับบริการ \
+ผู้ใช้งานสามารถดูข้อมูลภาพรวม สรุปรายงานประจำวัน สายทั้งหมด เจ้าหน้าที่ทั้งหมด รอรับบริการ กำลังรับบริการ\
 ได้รับบริการ ไม่ได้รับบริการ พร้อมให้บริการ ไม่พร้อมให้บริการ ปริมาณการใช้งานรายเดือน
 
 #### **วิธีการเข้าใช้งานในส่วนของเมนู Overview**
@@ -210,7 +210,7 @@ description: >-
 3. คลิก “Knowledge Base (Admin)”
 4. ผู้ใช้งานสามารถแก้ไข Knowledge Base ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/16 (6).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอ Knowledge Base – วิธีการแก้ไขข้อมูล Knowledge Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (6).png" alt=""><figcaption><p><strong>รูปภาพที่ 17</strong> หน้าจอ Knowledge Base – วิธีการแก้ไขข้อมูล Knowledge Base สำหรับ Admin</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด Knowledge Base สำหรับ Admin**
 
@@ -256,7 +256,7 @@ description: >-
 3. คลิก “Knowledge Base (IT)”
 4. ผู้ใช้งานสามารถแก้ไข Knowledge Base ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image22 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอ Knowledge Base – วิธีการแก้ไขข้อมูล Knowledge Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image22 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอ Knowledge Base – วิธีการแก้ไขข้อมูล Knowledge Base สำหรับ IT</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด Knowledge Base สำหรับ IT**
 
@@ -267,7 +267,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหา Knowledge Base ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง วันที่เริ่มต้น – สิ้นสุด Knowledge Groupและสถานะได้
 
-<figure><img src="../.gitbook/assets/image23 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 23</strong> หน้าจอสำหรับแสดงรายการ Knowledge Base – วิธีการดูรายละเอียดข้อมูล Knowledge Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image23 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 23</strong> หน้าจอสำหรับแสดงรายการ Knowledge Base – วิธีการดูรายละเอียดข้อมูล Knowledge Base สำหรับ IT</p></figcaption></figure>
 
 **วิธีการเพิ่ม KM Group** **สำหรับ IT**
 
@@ -281,11 +281,11 @@ description: >-
    * กรณี เลือกสถานะ ไม่ใช้งาน ระบบบันทึกข้อมูล ไปแสดงผลที่หน้า Manage KM Group มีสถานะเป็น ไม่ใช้งาน
 7. ถ้าต้องการยกเลิกการเพิ่มข้อมูล KM Group คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image24 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image24 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image25 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image25 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 25</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image26 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image26 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 26</strong> หน้าจอ KM Group – วิธีการเพิ่มข้อมูล KM Group</p></figcaption></figure>
 
 **วิธีการลบข้อมูล KM Group** **สำหรับ IT**
 
@@ -295,7 +295,7 @@ description: >-
 4. คลิกปุ่ม “KM Group”
 5. ผู้ใช้งานสามารถลบ KM Group ได้ โดยคลิกที่ “ไอคอนถังขยะ”
 
-<figure><img src="../.gitbook/assets/image27 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอ KM Group – วิธีการลบข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image27 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 27</strong> หน้าจอ KM Group – วิธีการลบข้อมูล KM Group</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล KM Group** **สำหรับ IT**
 
@@ -305,7 +305,7 @@ description: >-
 4. คลิกปุ่ม “KM Group”
 5. ผู้ใช้งานสามารถแก้ไข KM Group ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image28 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอ KM Group – วิธีการแก้ไขข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image28 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 28</strong> หน้าจอ KM Group – วิธีการแก้ไขข้อมูล KM Group</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด KM Group** **สำหรับ IT**
 
@@ -316,9 +316,9 @@ description: >-
 5. ผู้ใช้งานสามารถดูรายการ KM Group ได้ที่ตาราง Manage KM Group
 6. ผู้ใช้งานสามารถค้นหา KM Group ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/image24 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอ KM Group – วิธีการดูรายละเอียดข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image24 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 29</strong> หน้าจอ KM Group – วิธีการดูรายละเอียดข้อมูล KM Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image29 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอ KM Group – วิธีการดูรายละเอียดข้อมูล KM Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image29 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 30</strong> หน้าจอ KM Group – วิธีการดูรายละเอียดข้อมูล KM Group</p></figcaption></figure>
 
 ### 3.6 FAQs Base
 
@@ -337,7 +337,7 @@ description: >-
 7. ผู้ใช้งานสามารถค้นหา FAQs Base ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 8. ผู้ใช้งานสามารถดูรายละเอียดข้อมูล FAQs Base ได้โดยคลิกที่การ์ด FAQs Base
 
-<figure><img src="../.gitbook/assets/image30 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการค้นหา FAQs Base</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image30 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 31</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการค้นหา FAQs Base</p></figcaption></figure>
 
 #### **3.6.2 FAQs Base (Admin)**
 
@@ -352,9 +352,9 @@ description: >-
    * กรณี เลือกสถานะ ไม่ใช้งาน ระบบบันทึกข้อมูล ไปแสดงผลที่หน้า FAQs Base (Admin) มีสถานะเป็น ไม่ใช้งาน
 6. ถ้าต้องการยกเลิกการเพิ่มข้อมูล FAQs Base คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image31 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image31 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 32</strong> หน้าจอ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image32 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image32 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 33</strong> หน้าจอ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
 
 **วิธีการลบข้อมูล FAQs Base สำหรับ Admin**
 
@@ -363,7 +363,7 @@ description: >-
 3. คลิก “FAQs Base (Admin)”
 4. ผู้ใช้งานสามารถลบ FAQs Base ได้ โดยคลิกที่ “ไอคอนถังขยะ”
 
-<figure><img src="../.gitbook/assets/image33 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอ FAQs Base – วิธีการลบข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image33 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 34</strong> หน้าจอ FAQs Base – วิธีการลบข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล FAQs Base สำหรับ Admin**
 
@@ -372,7 +372,7 @@ description: >-
 3. คลิก “FAQs Base (Admin)”
 4. ผู้ใช้งานสามารถแก้ไข FAQs Base ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image34 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอ FAQs Base – วิธีการแก้ไขข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image34 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 35</strong> หน้าจอ FAQs Base – วิธีการแก้ไขข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด FAQs Base สำหรับ Admin**
 
@@ -383,7 +383,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหา FAQs Base ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “ตัวกรอง” สามารถกรอง วันที่เริ่มต้น – สิ้นสุด FAQs Group และสถานะได้
 
-<figure><img src="../.gitbook/assets/image35 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอ FAQs Base – วิธีการดูรายละเอียดข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image35 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 36</strong> หน้าจอ FAQs Base – วิธีการดูรายละเอียดข้อมูล FAQs Base สำหรับ Admin</p></figcaption></figure>
 
 #### **3.6.3 FAQs Base (IT)**
 
@@ -398,9 +398,9 @@ description: >-
    * กรณี เลือกสถานะ ไม่ใช้งาน ระบบบันทึกข้อมูล ไปแสดงผลที่หน้า FAQs Base (IT) มีสถานะเป็น ไม่ใช้งาน
 6. ถ้าต้องการยกเลิกการเพิ่มข้อมูล FAQs Base คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image36 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image36 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 37</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image37 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image37 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 38</strong> หน้าจอสำหรับแสดงรายการ FAQs Base – วิธีการเพิ่มข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
 
 **วิธีการลบข้อมูล FAQs Base สำหรับ IT**
 
@@ -409,7 +409,7 @@ description: >-
 3. คลิก “FAQs Base (IT)”
 4. ผู้ใช้งานสามารถลบ FAQs Base ได้ โดยคลิกที่ “ไอคอนถังขยะ”
 
-<figure><img src="../.gitbook/assets/image38 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอ FAQs Base – วิธีการลบข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image38 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 39</strong> หน้าจอ FAQs Base – วิธีการลบข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล FAQs Base สำหรับ IT**
 
@@ -418,7 +418,7 @@ description: >-
 3. คลิก “FAQs Base (IT)”
 4. ผู้ใช้งานสามารถแก้ไข FAQs Base ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image39 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอ FAQs Base – วิธีการแก้ไขข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image39 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 40</strong> หน้าจอ FAQs Base – วิธีการแก้ไขข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด FAQs Base สำหรับ IT**
 
@@ -429,7 +429,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหา FAQs Base ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “ตัวกรอง” สามารถกรอง วันที่เริ่มต้น – สิ้นสุด FAQs Group Created By และสถานะได้
 
-<figure><img src="../.gitbook/assets/image40.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอ FAQs Base – วิธีการดูรายละเอียดข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image40.png" alt=""><figcaption><p><strong>รูปภาพที่ 41</strong> หน้าจอ FAQs Base – วิธีการดูรายละเอียดข้อมูล FAQs Base สำหรับ IT</p></figcaption></figure>
 
 * **วิธีการเพิ่ม FAQs Group สำหรับ IT**
 
@@ -443,9 +443,9 @@ description: >-
    * กรณี เลือกสถานะ Inactive ระบบบันทึกข้อมูล ไปแสดงผลที่หน้า FAQs Group มีสถานะเป็น Inactive
 7. ถ้าต้องการยกเลิกการเพิ่มข้อมูล FAQs Group คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image41.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการเพิ่มข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image41.png" alt=""><figcaption><p><strong>รูปภาพที่ 42</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการเพิ่มข้อมูล FAQs Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image42.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 43</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการเพิ่มข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image42.png" alt=""><figcaption><p><strong>รูปภาพที่ 43</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการเพิ่มข้อมูล FAQs Group</p></figcaption></figure>
 
 **วิธีการลบข้อมูล FAQs Group** **สำหรับ IT**
 
@@ -455,9 +455,9 @@ description: >-
 4. คลิกปุ่ม “FAQs Group”
 5. ผู้ใช้งานสามารถลบ FAQs Group ได้ โดยคลิกที่ “ไอคอนถังขยะ”
 
-<figure><img src="../.gitbook/assets/image43.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 44</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการลบข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image43.png" alt=""><figcaption><p><strong>รูปภาพที่ 44</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการลบข้อมูล FAQs Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image44.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการลบข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image44.png" alt=""><figcaption><p><strong>รูปภาพที่ 45</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการลบข้อมูล FAQs Group</p></figcaption></figure>
 
 **วิธีการแก้ไขข้อมูล FAQs Group** **สำหรับ IT**
 
@@ -467,9 +467,9 @@ description: >-
 4. คลิกปุ่ม “FAQs Group”
 5. ผู้ใช้งานสามารถแก้ไข FAQs Group ได้ โดยคลิกที่ “ไอคอนดินสอ”
 
-<figure><img src="../.gitbook/assets/image45.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 46</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการแก้ไขข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image45.png" alt=""><figcaption><p><strong>รูปภาพที่ 46</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการแก้ไขข้อมูล FAQs Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image46.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 47</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการแก้ไขข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image46.png" alt=""><figcaption><p><strong>รูปภาพที่ 47</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการแก้ไขข้อมูล FAQs Group</p></figcaption></figure>
 
 **วิธีการดูรายละเอียด FAQs Group** **สำหรับ IT**
 
@@ -480,9 +480,9 @@ description: >-
 5. ผู้ใช้งานสามารถดูรายการ FAQs Group ได้ที่ตาราง Frequently Asked Questions
 6. ผู้ใช้งานสามารถค้นหา FAQs Group ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/image47.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 48</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการดูรายละเอียดข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image47.png" alt=""><figcaption><p><strong>รูปภาพที่ 48</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการดูรายละเอียดข้อมูล FAQs Group</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image48.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 49</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการดูรายละเอียดข้อมูล FAQs Group</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image48.png" alt=""><figcaption><p><strong>รูปภาพที่ 49</strong> หน้าจอสำหรับแสดงรายการ Frequently Asked Questions – วิธีการดูรายละเอียดข้อมูล FAQs Group</p></figcaption></figure>
 
 ### 3.7 บันทึกข้อมูลติดตามลูกค้า
 
@@ -513,9 +513,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลลูกค้าลงทะเบียน”จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตาม คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image49.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 52</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image49.png" alt=""><figcaption><p><strong>รูปภาพที่ 52</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image50.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image50.png" alt=""><figcaption><p><strong>รูปภาพที่ 53</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน – วิธีการเพิ่มรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดการติดตามลูกค้าลงทะเบียน**
 
@@ -526,7 +526,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหารายการติดตามลูกค้าลงทะเบียนได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “ตัวกรอง” สามารถกรอง หมายเลขโทรศัพท์ หมายเลขบัตรประชาชน โครงการ ชื่อ – นามสกุล บ้านเลขที่ ได้
 
-<figure><img src="../.gitbook/assets/image51.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 54</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน– วิธีการดูรายละเอียดรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image51.png" alt=""><figcaption><p><strong>รูปภาพที่ 54</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงทะเบียน– วิธีการดูรายละเอียดรายการติดตามลูกค้าลงทะเบียน</p></figcaption></figure>
 
 #### **3.7.2 การติดตามลูกค้าลงนามสัญญา**
 
@@ -553,9 +553,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลติดตามลูกค้าลงนามสัญญา”จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตาม คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image52.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการเพิ่มรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image52.png" alt=""><figcaption><p><strong>รูปภาพที่ 57</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการเพิ่มรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image53.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการเพิ่มรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image53.png" alt=""><figcaption><p><strong>รูปภาพที่ 58</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการเพิ่มรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดการติดตามลูกค้าลงนามสัญญา**
 
@@ -566,7 +566,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหารายการติดตามลูกค้าลงนามสัญญา ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “ตัวกรอง” สามารถกรอง หมายเลขโทรศัพท์ หมายเลขบัตรประชาชน โครงการได้
 
-<figure><img src="../.gitbook/assets/image54.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการดูรายละเอียดรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image54.png" alt=""><figcaption><p><strong>รูปภาพที่ 59</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าลงนามสัญญา – วิธีการดูรายละเอียดรายการติดตามลูกค้าลงนามสัญญา</p></figcaption></figure>
 
 #### **3.7.3 การติดตามลูกค้าค้างชำระ**
 
@@ -592,9 +592,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลลูกค้าค้างชำระ” จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตาม คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image55.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 62</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการเพิ่มรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image55.png" alt=""><figcaption><p><strong>รูปภาพที่ 62</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการเพิ่มรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image56.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 63</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการเพิ่มรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image56.png" alt=""><figcaption><p><strong>รูปภาพที่ 63</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการเพิ่มรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดการติดตามลูกค้าค้างชำระ**
 
@@ -605,7 +605,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหารายการติดตามลูกค้าค้างชำระได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “ตัวกรอง” สามารถกรอง หมายเลขโทรศัพท์ หมายเลขบัตรประชาชน โครงการได้
 
-<figure><img src="../.gitbook/assets/image57.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 64</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการดูรายละเอียดรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image57.png" alt=""><figcaption><p><strong>รูปภาพที่ 64</strong> หน้าจอสำหรับแสดงรายการติดตามลูกค้าค้างชำระ – วิธีการดูรายละเอียดรายการติดตามลูกค้าค้างชำระ</p></figcaption></figure>
 
 #### **3.7.4 รายการแจ้ง Campaign**
 
@@ -629,9 +629,9 @@ description: >-
 6. ผู้ใช้งานกรอก “ข้อมูลติดตามการแจ้งแคมเปญ”จากนั้นคลิกปุ่ม “บันทึกรายการติดตาม”
 7. ถ้าต้องการยกเลิกการเพิ่มรายการติดตามการแจ้งแคมเปญ คลิกปุ่ม “ยกเลิก”
 
-<figure><img src="../.gitbook/assets/image58.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 67</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image58.png" alt=""><figcaption><p><strong>รูปภาพที่ 67</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image59.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 68</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image59.png" alt=""><figcaption><p><strong>รูปภาพที่ 68</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการเพิ่มรายการแจ้ง Campaign</p></figcaption></figure>
 
 **วิธีการดูรายละเอียดรายการแจ้ง Campaign**
 
@@ -642,7 +642,7 @@ description: >-
 5. ผู้ใช้งานสามารถค้นหารายการแจ้ง Campaign ได้ โดยระบุข้อมูลใน “ช่องค้นหา”
 6. ผู้ใช้งานสามารถใช้ตัวกรอง โดยคลิกปุ่ม “Filter” สามารถกรอง หมายเลขโทรศัพท์ หมายเลขบัตรประชาชน โครงการได้
 
-<figure><img src="../.gitbook/assets/image60.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการดูรายละเอียดรายการแจ้ง Campaign</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image60.png" alt=""><figcaption><p><strong>รูปภาพที่ 69</strong> หน้าจอสำหรับแสดงรายการแจ้ง Campaign – วิธีการดูรายละเอียดรายการแจ้ง Campaign</p></figcaption></figure>
 
 ### 3.8 รายงาน
 
@@ -657,7 +657,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image61.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการรับเรื่อง แยกตามประเภทการรับเรื่อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image61.png" alt=""><figcaption><p><strong>รูปภาพที่ 70</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการรับเรื่อง แยกตามประเภทการรับเรื่อง</p></figcaption></figure>
 
 #### **3.8.2 รายงานรายละเอียดการรับเรื่อง**
 
@@ -668,7 +668,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image62.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดการรับเรื่อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image62.png" alt=""><figcaption><p><strong>รูปภาพที่ 71</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดการรับเรื่อง</p></figcaption></figure>
 
 #### **3.8.3 รายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามเจ้าหน้าที่รับเรื่อง**
 
@@ -679,7 +679,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image63.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 72</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามเจ้าหน้าที่รับเรื่อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image63.png" alt=""><figcaption><p><strong>รูปภาพที่ 72</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามเจ้าหน้าที่รับเรื่อง</p></figcaption></figure>
 
 #### **3.8.4 รายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามวันที่รับเรื่อง**
 
@@ -690,7 +690,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image64.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 73</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามวันที่รับเรื่อง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image64.png" alt=""><figcaption><p><strong>รูปภาพที่ 73</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615 แยกตามวันที่รับเรื่อง</p></figcaption></figure>
 
 #### **3.8.5 รายงานรายละเอียดการรับเรื่องร้องเรียน**
 
@@ -701,7 +701,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image65.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดการรับเรื่องร้องเรียน</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image65.png" alt=""><figcaption><p><strong>รูปภาพที่ 74</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดการรับเรื่องร้องเรียน</p></figcaption></figure>
 
 #### **3.8.6 รายงานผลการปฏิบัติงาน Call Center (ราย Agent)**
 
@@ -712,7 +712,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image66.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 75</strong> หน้าจอรายงาน – วิธีการดูรายงานผลการปฏิบัติงาน Call Center (ราย Agent)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image66.png" alt=""><figcaption><p><strong>รูปภาพที่ 75</strong> หน้าจอรายงาน – วิธีการดูรายงานผลการปฏิบัติงาน Call Center (ราย Agent)</p></figcaption></figure>
 
 #### **3.8.7 รายงานผลการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615**
 
@@ -723,7 +723,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image67.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 76</strong> หน้าจอรายงาน – วิธีการดูรายงานผลการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image67.png" alt=""><figcaption><p><strong>รูปภาพที่ 76</strong> หน้าจอรายงาน – วิธีการดูรายงานผลการสำรวจความพึงพอใจในการให้บริการของ Call Center 1615</p></figcaption></figure>
 
 #### **3.8.8 รายงานปริมาณการรับสายงาน Call Center 1615**
 
@@ -734,7 +734,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image68 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 77</strong> หน้าจอรายงาน – วิธีการดูรายงานปริมาณการรับสายงาน Call Center 1615</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image68 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 77</strong> หน้าจอรายงาน – วิธีการดูรายงานปริมาณการรับสายงาน Call Center 1615</p></figcaption></figure>
 
 #### **3.8.9 รายงานความพึงพอใจการให้บริการ**
 
@@ -745,7 +745,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image69.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 78</strong> หน้าจอรายงาน – วิธีการดูรายงานความพึงพอใจการให้บริการ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image69.png" alt=""><figcaption><p><strong>รูปภาพที่ 78</strong> หน้าจอรายงาน – วิธีการดูรายงานความพึงพอใจการให้บริการ</p></figcaption></figure>
 
 #### **3.8.10 รายงานให้บริการตามประเภทการให้บริการ**
 
@@ -756,7 +756,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/67.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 79</strong> หน้าจอรายงาน – วิธีการดูรายงานให้บริการตามประเภทการให้บริการ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/67.png" alt=""><figcaption><p><strong>รูปภาพที่ 79</strong> หน้าจอรายงาน – วิธีการดูรายงานให้บริการตามประเภทการให้บริการ</p></figcaption></figure>
 
 #### **3.8.11 รายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามกลุ่มเรื่องที่ติดต่อ**
 
@@ -767,7 +767,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image70 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามกลุ่มเรื่องที่ติดต่อ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image70 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 80</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามกลุ่มเรื่องที่ติดต่อ</p></figcaption></figure>
 
 #### **3.8.12 รายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามประเภทเรื่องที่ติดต่อ**
 
@@ -778,7 +778,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image71 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 81</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามประเภทเรื่องที่ติดต่อ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image71 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 81</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จได้ตามระยะเวลาที่กำหนด แยกตามประเภทเรื่องที่ติดต่อ</p></figcaption></figure>
 
 #### **3.8.13 รายงานรายละเอียดเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จตามระยะเวลาที่กำหนด**
 
@@ -789,7 +789,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image72 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 82</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จตามระยะเวลาที่กำหนด</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image72 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 82</strong> หน้าจอรายงาน – วิธีการดูรายงานรายละเอียดเรื่องที่ไม่สามารถดำเนินการให้แล้วเสร็จตามระยะเวลาที่กำหนด</p></figcaption></figure>
 
 #### **3.8.14 รายงาน 5 อันดับแรกที่มีผู้ติดต่อเข้ามาสูงสุด**
 
@@ -800,7 +800,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image73.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 83</strong> หน้าจอรายงาน – วิธีการดูรายงาน 5 อันดับแรกที่มีผู้ติดต่อเข้ามาสูงสุด</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image73.png" alt=""><figcaption><p><strong>รูปภาพที่ 83</strong> หน้าจอรายงาน – วิธีการดูรายงาน 5 อันดับแรกที่มีผู้ติดต่อเข้ามาสูงสุด</p></figcaption></figure>
 
 #### **3.8.15 รายงานสถิติการทำรายการบนระบบบริการข้อมูลอัตโนมัติ 1615**
 
@@ -811,7 +811,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image74.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 84</strong> หน้าจอรายงาน – วิธีการดูรายงานสถิติการทำรายการบนระบบบริการข้อมูลอัตโนมัติ 1615</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image74.png" alt=""><figcaption><p><strong>รูปภาพที่ 84</strong> หน้าจอรายงาน – วิธีการดูรายงานสถิติการทำรายการบนระบบบริการข้อมูลอัตโนมัติ 1615</p></figcaption></figure>
 
 #### **3.8.16 รายงานการปกิบัติการของเจ้าหน้าที่รับเรื่อง (Agent Performance Report)**
 
@@ -822,7 +822,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image75.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 85</strong> หน้าจอรายงาน – วิธีการดูรายงานการปฏิบัติการของเจ้าหน้าที่รับเรื่อง (Agent Performance Report)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image75.png" alt=""><figcaption><p><strong>รูปภาพที่ 85</strong> หน้าจอรายงาน – วิธีการดูรายงานการปฏิบัติการของเจ้าหน้าที่รับเรื่อง (Agent Performance Report)</p></figcaption></figure>
 
 #### **3.8.17 รายงานแสดงระยะเวลาการรอรับสายนานที่สุด (Queue Waiting Report)**
 
@@ -833,7 +833,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image76.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 86</strong> หน้าจอรายงาน – วิธีการดูรายงานแสดงระยะเวลาการรอรับสายนานที่สุด (Queue Waiting Report)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image76.png" alt=""><figcaption><p><strong>รูปภาพที่ 86</strong> หน้าจอรายงาน – วิธีการดูรายงานแสดงระยะเวลาการรอรับสายนานที่สุด (Queue Waiting Report)</p></figcaption></figure>
 
 #### **3.8.18 รายงานปฏิบัติงาน-ช่วงเวลาที่มีการรอสาย (Call Waiting Report)**
 
@@ -844,7 +844,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image77.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 87</strong> หน้าจอรายงาน – วิธีการดูรายงานปฏิบัติงาน-ช่วงเวลาที่มีการรอสาย (Call Waiting Report)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image77.png" alt=""><figcaption><p><strong>รูปภาพที่ 87</strong> หน้าจอรายงาน – วิธีการดูรายงานปฏิบัติงาน-ช่วงเวลาที่มีการรอสาย (Call Waiting Report)</p></figcaption></figure>
 
 #### **3.8.19 รายงานสรุปจำนวนเรื่องการสอบถามห้องว่างพร้อมขาย แยกตามโครงการ**
 
@@ -855,7 +855,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image78.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 88</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปจำนวนเรื่องการสอบถามห้องว่างพร้อมขาย แยกตามโครงการ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image78.png" alt=""><figcaption><p><strong>รูปภาพที่ 88</strong> หน้าจอรายงาน – วิธีการดูรายงานสรุปจำนวนเรื่องการสอบถามห้องว่างพร้อมขาย แยกตามโครงการ</p></figcaption></figure>
 
 #### **3.8.20 รายงานปริมาณรับ และงาน Social Media**
 
@@ -866,7 +866,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ดาวน์โหลด” ระบบจะแสดงหน้าป๊อบอัพดาวน์โหลดรายงาน ผู้ใช้งานสามารถเลือกรูปแบบดาวน์โหลดรายงานได้
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image79.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 89</strong> หน้าจอรายงาน – วิธีการดูรายงานปริมาณรับสาย และงาน Social Media</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image79.png" alt=""><figcaption><p><strong>รูปภาพที่ 89</strong> หน้าจอรายงาน – วิธีการดูรายงานปริมาณรับสาย และงาน Social Media</p></figcaption></figure>
 
 ### 3.9 รายการค้างชำระ
 
@@ -878,7 +878,7 @@ description: >-
    * เมื่อคลิกปุ่ม “ค้นหาข้อมูล” ระบบจะดึงข้อมูลตามที่ระบุในตัวกรองมาแสดงในส่วนของตารางรายการค้างชำระ
    * เมื่อคลิกปุ่ม “ล้างข้อมูล” ระบบจะล้างข้อมูลที่ระบุในตัวกรอง และแสดงเป็นค่าว่าง
 
-<figure><img src="../.gitbook/assets/image80.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 90</strong> หน้าจอแสดงรายการค้างชำระ – วิธีการดูรายการค้างชำระ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image80.png" alt=""><figcaption><p><strong>รูปภาพที่ 90</strong> หน้าจอแสดงรายการค้างชำระ – วิธีการดูรายการค้างชำระ</p></figcaption></figure>
 
 ## **บทที่ 4 การใช้งานในส่วนของเมนู Customer Service**
 
@@ -898,7 +898,7 @@ description: >-
 3. คลิก “สถานะการดำเนินการ”
 4. ระบบจะนำทางไปที่ระบบ “Customer Service”
 
-<figure><img src="../.gitbook/assets/image81.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 91</strong> หน้าจอระบบ Customer Service</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image81.png" alt=""><figcaption><p><strong>รูปภาพที่ 91</strong> หน้าจอระบบ Customer Service</p></figcaption></figure>
 
 ## **บทที่ 5 การใช้งานในส่วนของเมนู Setting**
 
@@ -925,9 +925,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของบัตรสมาชิก
 5. คลิกปุ่ม “ลบ”
 
-<figure><img src="../.gitbook/assets/image82.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 93</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image82.png" alt=""><figcaption><p><strong>รูปภาพที่ 93</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image83.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 94</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image83.png" alt=""><figcaption><p><strong>รูปภาพที่ 94</strong> หน้าจอ Data Maintenance – การลบบัตรสมาชิก</p></figcaption></figure>
 
 #### **วิธีการแก้ไขข้อมูลบัตรสมาชิก**
 
@@ -937,9 +937,9 @@ description: >-
 4. ระบบจะแสดงหน้าข้อมูลของบัตรสมาชิก ผู้ใช้งานทำการแก้ไขข้อมูลบัตรสมาชิก
 5. คลิกปุ่ม “แก้ไข”
 
-<figure><img src="../.gitbook/assets/image82.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 95</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image82.png" alt=""><figcaption><p><strong>รูปภาพที่ 95</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image84 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 96</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image84 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 96</strong> หน้าจอ Data Maintenance – การแก้ไขบัตรสมาชิก</p></figcaption></figure>
 
 #### **วิธีการดูรายการบัตรสมาชิก**
 
@@ -948,7 +948,7 @@ description: >-
 3. ระบบจะแสดงหน้ารายการบัตรสมาชิก
 4. ผู้ใช้งานสามารถค้นหาบัตรสมาชิก โดยระบุข้อมูลที่ต้องการค้นหาได้ที่ “ช่องค้นหา”
 
-<figure><img src="../.gitbook/assets/image85 (1).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 97</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image85 (1).png" alt=""><figcaption><p><strong>รูปภาพที่ 97</strong> หน้าจอ Data Maintenance – การดูรายการบัตรสมาชิก</p></figcaption></figure>
 
 ## **บทที่ 6 การใช้งานในส่วนของเมนูส่วนเสริม**
 
@@ -957,4 +957,4 @@ description: >-
 1. ไปที่เมนู “ส่วนเสริม”
 2. คลิก “แบบสอบถาม”
 
-<figure><img src="../.gitbook/assets/image86.png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 98</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image86.png" alt=""><figcaption><p><strong>รูปภาพที่ 98</strong> หน้าจอการใช้งานในส่วนของส่วนเสริม – แบบสอบถาม</p></figcaption></figure>

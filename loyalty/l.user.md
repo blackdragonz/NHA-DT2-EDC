@@ -28,7 +28,7 @@ description: >-
 
 1. ไปที่เมนู “พอยท์สะสม/สิทธิประโยชน์”
 2. คลิกเมนู “บัตรสมาชิก”
-3. ผู้ใช้งานคลิกปุ่ม  <img src="../.gitbook/assets/1 (8).png" alt="" data-size="line"> แสดง “QR Code”
+3. ผู้ใช้งานคลิกปุ่ม <img src="../.gitbook/assets/1 (8).png" alt="" data-size="line"> แสดง “QR Code”
 
 ![รูปภาพที่ 2 บัตรสมาชิก](<../.gitbook/assets/2 (8).png>)
 
@@ -45,7 +45,7 @@ description: >-
 3. ผู้ใช้งานสามารถคลิก “ใช้สิทธิ์” สิทธิประโยชน์
 4. ผู้ใช้งานสามารถคลิก “รายการสิทธิประโยชน์” เพื่อดูข้อมูลรายละเอียดได้
 
-<figure><img src="../.gitbook/assets/4 (8).png" alt="" width="563"><figcaption><p><strong>รูปภาพที่ 4</strong> การแสดงรายการและใช้งานสิทธิ์สิทธิประโยชน์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (8).png" alt=""><figcaption><p><strong>รูปภาพที่ 4</strong> การแสดงรายการและใช้งานสิทธิ์สิทธิประโยชน์</p></figcaption></figure>
 
 #### **แสดงรายละเอียดสิทธิประโยชน์**
 
@@ -96,11 +96,11 @@ description: >-
 
 1. ไปที่แอพพลิเคชั่น “NHA Services”
 
-<figure><img src="../.gitbook/assets/10 (7).png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 10</strong> แอพพลิเคชั่น NHA Services</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (7).png" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 10</strong> แอพพลิเคชั่น NHA Services</p></figcaption></figure>
 
 2. ไปที่ navigation bar แล้วคลิก “สิทธิประโยชน์
 
-<figure><img src="../.gitbook/assets/11 (7).png" alt="" width="238"><figcaption><p><strong>รูปภาพที่ 11</strong> หน้าจอสิทธิประโยชน์</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (7).png" alt="" width="357"><figcaption><p><strong>รูปภาพที่ 11</strong> หน้าจอสิทธิประโยชน์</p></figcaption></figure>
 
 ### **3.1 แลกของรางวัล**
 
@@ -113,9 +113,9 @@ description: >-
 3. ระบบแสดงป็อปอัพรายละเอียดข้อมูลของรางวัลและคูปอง
 4. ผู้ใช้งานคลิก “แลกคะแนน”
 
-<figure><img src="../.gitbook/assets/12 (7).png" alt="" width="282"><figcaption><p><strong>รูปภาพที่ 12</strong> วิธีแลกของรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (7).png" alt="" width="422"><figcaption><p><strong>รูปภาพที่ 12</strong> วิธีแลกของรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/13 (7).png" alt="" width="175"><figcaption><p><strong>รูปภาพที่ 13</strong> วิธีแลกของรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (7).png" alt=""><figcaption><p><strong>รูปภาพที่ 13</strong> วิธีแลกของรางวัล</p></figcaption></figure>
 
 ### **3.2 รับคูปอง**
 
@@ -128,9 +128,9 @@ description: >-
 3. ระบบแสดงป็อปอัพรายละเอียดข้อมูลของรางวัลและคูปอง
 4. ผู้ใช้งานคลิก “รับคูปอง”
 
-<figure><img src="../.gitbook/assets/14 (7).png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอแลกคูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (7).png" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 14</strong> หน้าจอแลกคูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/15 (7).png" alt="" width="188"><figcaption><p><strong>รูปภาพที่ 15</strong> วิธีแลกของคูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15 (7).png" alt="" width="375"><figcaption><p><strong>รูปภาพที่ 15</strong> วิธีแลกของคูปอง</p></figcaption></figure>
 
 ### **3.3 การใช้สิทธิ์แลกของรางวัล**
 
@@ -142,11 +142,11 @@ description: >-
 2. คลิก “รายการรางวัล” ที่ต้องการแลก
 3.  คลิก “ใช้รางวัล”
 
-    <figure><img src="../.gitbook/assets/16 (7).png" alt="" width="292"><figcaption><p><strong>รูปภาพที่ 16</strong> วิธีใช้งานการรับของรางวัล</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/16 (7).png" alt="" width="438"><figcaption><p><strong>รูปภาพที่ 16</strong> วิธีใช้งานการรับของรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/17 (6).png" alt="" width="202"><figcaption><p><strong>รูปภาพที่ 17</strong> วิธีใช้งานการรับของรางวัล – เลือกรายการรับของรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (6).png" alt=""><figcaption><p><strong>รูปภาพที่ 17</strong> วิธีใช้งานการรับของรางวัล – เลือกรายการรับของรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/18 (6).png" alt="" width="193"><figcaption><p><strong>รูปภาพที่ 18</strong> วิธีใช้งานการรับของรางวัล – รับรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (6).png" alt=""><figcaption><p><strong>รูปภาพที่ 18</strong> วิธีใช้งานการรับของรางวัล – รับรางวัล</p></figcaption></figure>
 
 ### **3.4 ประวัติการใช้งานการแลกรางวัล**
 
@@ -157,7 +157,7 @@ description: >-
 1. คลิกแถบ “ประวัติการแลกรางวัล”
 2.  ผู้ใช้งานสามารถดูข้อมูล “รายการประวัติ” ที่เคยแลก
 
-    <figure><img src="../.gitbook/assets/19 (6).png" alt="" width="248"><figcaption><p><strong>รูปภาพที่ 19</strong> ประวัติการแลกรางวัล</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/19 (6).png" alt=""><figcaption><p><strong>รูปภาพที่ 19</strong> ประวัติการแลกรางวัล</p></figcaption></figure>
 
 ### **3.5 การใช้สิทธิ์แลกคูปอง**
 
@@ -169,11 +169,11 @@ description: >-
 2. คลิก “รายการคูปอง” ที่ต้องการใช้สิทธิ์
 3.  คลิก “ใช้รางวัล”
 
-    <figure><img src="../.gitbook/assets/20 (6).png" alt="" width="250"><figcaption><p><strong>รูปภาพที่ 20</strong> วิธีการใช้งานคูปอง</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/20 (6).png" alt="" width="374"><figcaption><p><strong>รูปภาพที่ 20</strong> วิธีการใช้งานคูปอง</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/21.PNG" alt="" width="256"><figcaption><p><strong>รูปภาพที่ 21</strong> วิธีการใช้งานคูปอง – เลือกรายการ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/21.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 21</strong> วิธีการใช้งานคูปอง – เลือกรายการ</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/22 (1).PNG" alt="" width="248"><figcaption><p><strong>รูปภาพที่ 22</strong> วิธีการใช้งานคูปอง – ใช้งานคูปอง</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/22 (1).PNG" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> วิธีการใช้งานคูปอง – ใช้งานคูปอง</p></figcaption></figure>
 
 ### **3.6 การสุ่มรางวัล**
 
@@ -185,8 +185,8 @@ description: >-
 2. คลิก “หมุน” เพื่อทำการสุ่มวงล้อ
 3. ระบบทำการสุ่มของรางวัลให้กับผู้ใช้งาน
 
-<figure><img src="../.gitbook/assets/23.PNG" alt="" width="251"><figcaption><p><strong>รูปภาพที่ 23</strong> วิธีการสุ่มรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/23.PNG" alt=""><figcaption><p><strong>รูปภาพที่ 23</strong> วิธีการสุ่มรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/24 (1).PNG" alt="" width="266"><figcaption><p><strong>รูปภาพที่ 24</strong> สุ่มรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/24 (1).PNG" alt=""><figcaption><p><strong>รูปภาพที่ 24</strong> สุ่มรางวัล</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/25 (1).PNG" alt="" width="236"><figcaption><p><strong>รูปภาพที่ 25</strong> ผลรางวัล</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/25 (1).PNG" alt=""><figcaption><p><strong>รูปภาพที่ 25</strong> ผลรางวัล</p></figcaption></figure>
