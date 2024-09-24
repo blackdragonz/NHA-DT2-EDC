@@ -186,11 +186,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/20 (3).png" alt=""><figcaption><p><strong>รูปภาพที่ 21</strong> หน้าจอสำรวจซ่อม – วิธีการบันทึกสำรวจซ่อม</p></figcaption></figure>
 
-**รูปภาพที่ 22** หน้าจอสำรวจซ่อม – เลือกรายการวัสดุ
+<figure><img src="../.gitbook/assets/Aimage22.png" alt=""><figcaption><p><strong>รูปภาพที่ 22</strong> หน้าจอสำรวจซ่อม – เลือกรายการวัสดุ</p></figcaption></figure>
 
-**รูปภาพที่ 23** หน้าจอสำรวจซ่อม – บันทึกสำรวจซ่อม
+<figure><img src="../.gitbook/assets/Aimage23.png" alt=""><figcaption><p><strong>รูปภาพที่ 23</strong> หน้าจอสำรวจซ่อม – บันทึกสำรวจซ่อม</p></figcaption></figure>
 
-**รูปภาพที่ 24** หน้าจอสำรวจซ่อม – ยกเลิกคำร้อง
+<figure><img src="../.gitbook/assets/Aimage24.png" alt=""><figcaption><p><strong>รูปภาพที่ 24</strong> หน้าจอสำรวจซ่อม – ยกเลิกคำร้อง</p></figcaption></figure>
 
 #### **2.4.3 คัดลอกบันทึกสำรวจซ่อม**
 
